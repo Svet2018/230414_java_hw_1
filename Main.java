@@ -63,14 +63,6 @@ public class Main {
        Homework_3.printSummEven(arr);
        System.out.println();
 
-
-        //Код для решения задания №4
-
-        System.out.println("Сгенерирован список случайных чисел: ");
-        int number = Homework_4.numGen();
-        List<Integer> list = Homework_4.list(number);
-        Homework_4.printRes((ArrayList) list);
-
     }
 
 }
